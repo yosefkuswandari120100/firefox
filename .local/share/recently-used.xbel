@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///config/data_faker.csv" added="2024-10-22T13:50:23.293984Z" modified="2024-11-13T13:07:53.437991Z" visited="2024-10-22T13:50:23.293985Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-11-13T13:07:53.437988Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///config/surfe-automa/Codesanbox%20Account.automa.json" added="2024-10-25T15:21:09.153326Z" modified="2024-10-25T15:21:09.153336Z" visited="2024-10-25T15:21:09.153328Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-25T15:21:09.153331Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///config/surfe-automa/Get%20Data%20Person.automa.json" added="2024-10-25T15:21:09.153354Z" modified="2024-10-25T15:21:09.153360Z" visited="2024-10-25T15:21:09.153354Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-25T15:21:09.153356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///config/surfe-automa/Github%20Singup.automa.json" added="2024-10-25T15:21:09.153370Z" modified="2024-10-25T15:21:09.153373Z" visited="2024-10-25T15:21:09.153370Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-25T15:21:09.153371Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///config/surfe-automa/Register%20Outlook%20Email.automa.json" added="2024-10-25T15:21:09.153381Z" modified="2024-10-25T15:21:09.153385Z" visited="2024-10-25T15:21:09.153382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-25T15:21:09.153383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///config/Downloads/codesandbox%20-%20docker%20chromium.xlsx" added="2024-11-16T01:36:42.843393Z" modified="2024-11-16T01:37:58.672603Z" visited="2024-11-16T01:36:42.843394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-11-16T01:37:58.672601Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

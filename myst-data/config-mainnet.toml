@@ -1,0 +1,20 @@
+active-services = "data_transfer,dvpn,wireguard,scraping"
+
+[mmn]
+  api-key = "QGlYdAqP3nQI3pMMREQGNoUc1SLfQeOR1hJPWrH5"
+
+[node]
+  version = "11780580776"
+
+[shaper]
+  bandwidth = 125000.0
+  enabled = true
+
+[terms]
+  consumer-agreed = true
+  provider-agreed = true
+  version = "0.0.53"
+
+[ui-terms]
+  agreedat = "2024-11-14"
+  agreedtoversion = "0.0.53"
